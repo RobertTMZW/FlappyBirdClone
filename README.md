@@ -1,7 +1,7 @@
 # FlappyBirdClone
 Flappy Bird game clone made using Python(pygame)
 
-#Dependecies
+# Dependecies
 
 -Pygame Version: 1.9.6
 
